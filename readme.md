@@ -1,0 +1,2 @@
+# autenticación en webservicecon token
+Ejemplo simple de un servicio web en PHP utilizando XAMPP que solicita la autenticación Bearer en cada solicitud. Este ejemplo utiliza un archivo de configuración para almacenar los tokens de acceso 
